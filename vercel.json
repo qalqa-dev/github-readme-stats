@@ -1,6 +1,5 @@
 {
-  "nodejs": "22.x",
-  "functions": {
+"functions": {
     "api/*.js": {
       "memory": 128,
       "maxDuration": 10
